@@ -1,0 +1,298 @@
+{
+    "snorunt": {
+        "id": 361,
+        "apiName": "snorunt",
+        "displayName": "Snorunt",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/361.png",
+        "types": [
+            "ice"
+        ],
+        "growthRate": "medium",
+        "validGenders": [
+            "Male",
+            "Female"
+        ],
+        "isBaby": false,
+        "isBaseForm": true,
+        "isBattleOnlyForm": false,
+        "isLegendary": false,
+        "isMythical": false,
+        "isParadoxOrBeast": false,
+        "baseStats": {
+            "hp": 50,
+            "attack": 50,
+            "defense": 50,
+            "spAttack": 50,
+            "spDefense": 50,
+            "speed": 50
+        },
+        "movePool": [
+            {
+                "name": "headbutt",
+                "level": 1
+            },
+            {
+                "name": "leer",
+                "level": 1
+            },
+            {
+                "name": "powder-snow",
+                "level": 1
+            },
+            {
+                "name": "astonish",
+                "level": 1
+            },
+            {
+                "name": "double-team",
+                "level": 4
+            },
+            {
+                "name": "ice-shard",
+                "level": 6
+            },
+            {
+                "name": "bite",
+                "level": 10
+            },
+            {
+                "name": "icy-wind",
+                "level": 13
+            },
+            {
+                "name": "ice-fang",
+                "level": 18
+            },
+            {
+                "name": "protect",
+                "level": 20
+            },
+            {
+                "name": "crunch",
+                "level": 25
+            },
+            {
+                "name": "frost-breath",
+                "level": 30
+            },
+            {
+                "name": "ice-beam",
+                "level": 34
+            },
+            {
+                "name": "icicle-crash",
+                "level": 34
+            },
+            {
+                "name": "hail",
+                "level": 37
+            },
+            {
+                "name": "blizzard",
+                "level": 43
+            },
+            {
+                "name": "snowscape",
+                "level": 45
+            },
+            {
+                "name": "weather-ball",
+                "level": 50
+            }
+        ],
+        "tmPool": [
+            "attract",
+            "avalanche",
+            "blizzard",
+            "body-slam",
+            "captivate",
+            "chilling-water",
+            "confide",
+            "crunch",
+            "double-team",
+            "endure",
+            "facade",
+            "fake-tears",
+            "flash",
+            "frost-breath",
+            "frustration",
+            "hail",
+            "helping-hand",
+            "hex",
+            "hidden-power",
+            "ice-beam",
+            "ice-fang",
+            "ice-spinner",
+            "icicle-spear",
+            "icy-wind",
+            "light-screen",
+            "natural-gift",
+            "protect",
+            "rain-dance",
+            "rest",
+            "return",
+            "round",
+            "safeguard",
+            "secret-power",
+            "shadow-ball",
+            "sleep-talk",
+            "snore",
+            "snowscape",
+            "spikes",
+            "spite",
+            "substitute",
+            "swagger",
+            "take-down",
+            "tera-blast",
+            "toxic",
+            "trailblaze",
+            "water-pulse",
+            "weather-ball"
+        ]
+    },
+    "raging-bolt": {
+        "id": 1021,
+        "apiName": "raging-bolt",
+        "displayName": "Raging Bolt",
+        "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1021.png",
+        "types": [
+            "electric",
+            "dragon"
+        ],
+        "growthRate": "slow",
+        "validGenders": [
+            "Genderless"
+        ],
+        "isBaby": false,
+        "isBaseForm": true,
+        "isBattleOnlyForm": false,
+        "isLegendary": false,
+        "isMythical": false,
+        "isParadoxOrBeast": true,
+        "baseStats": {
+            "hp": 125,
+            "attack": 73,
+            "defense": 91,
+            "spAttack": 137,
+            "spDefense": 89,
+            "speed": 75
+        },
+        "movePool": [
+            {
+                "name": "stomp",
+                "level": 1
+            },
+            {
+                "name": "twister",
+                "level": 1
+            },
+            {
+                "name": "sunny-day",
+                "level": 1
+            },
+            {
+                "name": "shock-wave",
+                "level": 1
+            },
+            {
+                "name": "charge",
+                "level": 7
+            },
+            {
+                "name": "dragon-breath",
+                "level": 14
+            },
+            {
+                "name": "electric-terrain",
+                "level": 21
+            },
+            {
+                "name": "discharge",
+                "level": 28
+            },
+            {
+                "name": "dragon-tail",
+                "level": 35
+            },
+            {
+                "name": "calm-mind",
+                "level": 42
+            },
+            {
+                "name": "thunderclap",
+                "level": 49
+            },
+            {
+                "name": "dragon-hammer",
+                "level": 56
+            },
+            {
+                "name": "rising-voltage",
+                "level": 63
+            },
+            {
+                "name": "dragon-pulse",
+                "level": 70
+            },
+            {
+                "name": "zap-cannon",
+                "level": 77
+            },
+            {
+                "name": "body-press",
+                "level": 84
+            },
+            {
+                "name": "thunder",
+                "level": 91
+            }
+        ],
+        "tmPool": [
+            "body-press",
+            "body-slam",
+            "breaking-swipe",
+            "calm-mind",
+            "charge",
+            "charge-beam",
+            "crunch",
+            "double-edge",
+            "draco-meteor",
+            "dragon-cheer",
+            "dragon-pulse",
+            "dragon-tail",
+            "earthquake",
+            "eerie-impulse",
+            "electric-terrain",
+            "electro-ball",
+            "electroweb",
+            "endure",
+            "facade",
+            "giga-impact",
+            "heavy-slam",
+            "hyper-beam",
+            "hyper-voice",
+            "outrage",
+            "protect",
+            "rest",
+            "roar",
+            "scary-face",
+            "sleep-talk",
+            "snarl",
+            "solar-beam",
+            "stomping-tantrum",
+            "substitute",
+            "sunny-day",
+            "supercell-slam",
+            "take-down",
+            "taunt",
+            "tera-blast",
+            "thunder",
+            "thunder-fang",
+            "thunder-wave",
+            "thunderbolt",
+            "volt-switch",
+            "weather-ball",
+            "wild-charge"
+        ]
+    }
+}
